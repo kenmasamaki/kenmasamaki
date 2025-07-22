@@ -16,12 +16,14 @@
 GitHubプロフィールへお越しくださり、ありがとうございます。  
 ここでは、私の活動・得意分野・主なプロジェクトなどを紹介しています。
 
+---
+
 <table>
   <tr>
     <td valign="top" width="45%">
       <h3>🧑‍💻 <b>自己紹介</b></h3>
       <ul>
-        <li>ゲーム開発・技術共有が大好きな <b>Unityエンジニア</b> です。</li>
+        <li>ゲーム開発・技術共有が大好きな <b>プログラマー</b> です。</li>
         <li>日々新しい技術を学び、より良いコードと価値あるプロダクトを目指しています。</li>
       </ul>
     </td>
@@ -31,55 +33,73 @@ GitHubプロフィールへお越しくださり、ありがとうございま�
         <li><b>Unity</b> を使ったゲーム・ツール開発</li>
         <li>エディタ拡張、ワークフロー効率化</li>
         <li>自作ツールやライブラリ公開</li>
-        <li>共同開発・コントリビュートも積極的に活動中</li>
       </ul>
     </td>
   </tr>
 </table>
 
+---
+
 ## 🏅 GitHub 実績
 
 <div align="center">
 
-<!-- アニメーション付きコントリビューショングラフ -->
-<a href="https://github.com/kenmasamaki">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenmasamaki&theme=github_dark" alt="詳細なアクティビティグラフ" width="100%"/>
-</a>
-
-<!-- アニメーション付き日毎コントリビューショングラフ -->
-<a href="https://github.com/kenmasamaki">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenmasamaki&theme=github-compact&area=true&hide_border=true&anim=true" alt="アニメーション付きコントリビューショングラフ" width="100%"/>
-</a>
-
-<!-- 言語サマリー（アニメーション） -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenmasamaki&theme=github_dark" alt="主な使用言語" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenmasamaki&theme=github_dark" alt="最もコミットした言語" height="160" />
-
-<!-- コミット・連続記録（アニメーション付き） -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenmasamaki&theme=github_dark" alt="GitHub Stats" height="160" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kenmasamaki&theme=github_dark&utcOffset=9" alt="最も生産的な時間帯" height="160" />
-
-<!-- トロフィー（白基調アイコン） -->
-<img src="https://github-profile-trophy.vercel.app/?username=kenmasamaki&theme=flat&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B&title=Stars,Followers,Commit,PR,Issues,Repositories,Contributed&title_color=ffffff&icon_color=ffffff&bg_color=FFFFFF00" alt="GitHub Trophy" width="100%" />
+<table>
+  <tr>
+    <td align="center" colspan="2"><b>📝 アクティビティサマリーグラフ</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/kenmasamaki">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenmasamaki&theme=github_dark" alt="詳細なアクティビティグラフ" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>📈 コントリビューショングラフ（日毎・アニメーション）</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/kenmasamaki">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenmasamaki&theme=github-compact&area=true&hide_border=true&anim=true" alt="アニメーション付きコントリビューショングラフ" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 主な使用言語</b></td>
+    <td align="center"><b>🔤 最もコミットした言語</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenmasamaki&theme=github_dark" alt="主な使用言語" height="160" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenmasamaki&theme=github_dark" alt="最もコミットした言語" height="160" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 活動統計</b></td>
+    <td align="center"><b>🕒 最も生産的な時間帯</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenmasamaki&theme=github_dark" alt="GitHub Stats" height="160" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kenmasamaki&theme=github_dark&utcOffset=9" alt="最も生産的な時間帯" height="160" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>🏆 トロフィー（実績アイコン）</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=kenmasamaki&theme=flat&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B&title=Stars,Followers,Commit,PR,Issues,Repositories,Contributed&title_color=ffffff&icon_color=ffffff&bg_color=FFFFFF00" alt="GitHub Trophy" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
-### 📊 グラフについて
-
-- **アクティビティサマリーグラフ（アニメーション）**  
-  年間や月ごとの活動量、どのリポジトリで活発に貢献しているかが一目で分かります。
-
-- **アニメーション付きコントリビューショングラフ**  
-  日毎のコントリビューション推移がアニメーションで見やすく表示され、活動の強弱や連続性が分かります。
-
-- **主な使用言語・コミット言語**  
-  公開リポジトリで使っている主要なプログラミング言語や、最も多くコミットしている言語がグラフで分かります。
-
-- **活動統計・生産的な時間帯**  
-  コミット数やPR数などの総合的な統計と、どの時間帯に最も活動しているか（日本時間）が分かるグラフです。
-
-- **トロフィー（白基調）**  
-  スター数やフォロワー数、コミット数、プルリク数、イシュー数、リポジトリ数、貢献数など、GitHub上の様々な実績を白を基調としたトロフィーアイコンで表現しています。
 
 ---
 

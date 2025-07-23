@@ -126,6 +126,10 @@ GitHubプロフィールへお越しくださり、ありがとうございま�
     <td><a href="https://github.com/kenmasamaki/NonEditableAttribute">NonEditableAttribute</a></td>
     <td>Unityのインスペクター上でフィールドを編集不可にするエディタ拡張</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/kenmasamaki/RangeVectorAttribute">RangeVectorAttribute</a></td>
+    <td>Unityのインスペクター上でVector型の各成分を指定の範囲で制限できるようにするエディタ拡張</td>
+  </tr>
 </table>
 
 ---

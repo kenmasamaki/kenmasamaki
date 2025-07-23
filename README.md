@@ -130,6 +130,10 @@ GitHubプロフィールへお越しくださり、ありがとうございま�
     <td><a href="https://github.com/kenmasamaki/RangeVectorAttribute">RangeVectorAttribute</a></td>
     <td>Unityのインスペクター上でVector型の各成分を指定の範囲で制限できるようにするエディタ拡張</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/kenmasamaki/CustomScriptCreator">CustomScriptCreator</a></td>
+    <td>Unityで新しいスクリプト作成時、クラス名・継承するクラス・テンプレートを選択してスクリプト作成の手間を省けるエディタ拡張</td>
+  </tr>
 </table>
 
 ---

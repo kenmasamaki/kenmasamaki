@@ -134,6 +134,10 @@ GitHubプロフィールへお越しくださり、ありがとうございま�
     <td><a href="https://github.com/kenmasamaki/CustomScriptCreator">CustomScriptCreator</a></td>
     <td>Unityで新しいスクリプト作成時、クラス名・継承するクラス・テンプレートを選択してスクリプト作成の手間を省けるエディタ拡張</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/kenmasamaki/BookmarkTool">BookmarkTool</a></td>
+    <td>Unityで重要なアセットやシーン、スクリプトなどをブックマークするエディタ拡張</td>
+  </tr>
 </table>
 
 ---
